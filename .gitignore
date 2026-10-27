@@ -1,0 +1,7 @@
+# La lista maestra en claro NO se publica: solo se sube el archivo ofuscado.
+licencias/licencias.json
+
+# Ruido local
+*.log
+.tmp/
+node_modules/
